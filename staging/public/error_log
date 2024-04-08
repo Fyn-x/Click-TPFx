@@ -1,0 +1,8 @@
+[05-Jul-2023 13:47:29 Asia/Jakarta] PHP Fatal error:  Uncaught ReflectionException: Class translator does not exist in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:877
+Stack trace:
+#0 /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(877): ReflectionClass->__construct('translator')
+#1 /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(758): Illuminate\Container\Container->build('translator')
+#2 /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(851): Illuminate\Container\Container->resolve('translator', Array, true)
+#3 /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(694): Illuminate\Foundation\Application->resolve('translator', Array)
+#4 /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(836): Illuminate\Container\Container->make('translator', Array)
+#5 /home/clicktpfx/public_html/vendor/laravel/framework in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 879

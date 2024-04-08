@@ -1,0 +1,717 @@
+[09-May-2022 11:43:23 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:23 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:24 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:24 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:24 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:24 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:25 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:25 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:26 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:26 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:27 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:27 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:28 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:28 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:28 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:28 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:29 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:29 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:30 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:30 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:31 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:31 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:32 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:32 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:32 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:32 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:33 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:33 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:33 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:33 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:34 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:34 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:35 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:35 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:36 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:36 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:37 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:37 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:37 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:37 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:37 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:37 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:38 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:38 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:39 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:39 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:39 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:39 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:40 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:40 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:40 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:40 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:41 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:41 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:42 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:42 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:43 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:43 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:44 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:44 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:44 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:44 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:45 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:45 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:46 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:46 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:47 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:47 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:47 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:47 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:48 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:48 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:49 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:49 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:50 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:43:50 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:45:03 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:45:03 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:45:07 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:45:07 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:45:31 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:45:31 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:45:37 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:45:37 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:45:40 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:45:40 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:45:41 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:45:41 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:46:06 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:46:06 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:46:11 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:46:11 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:47:05 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:47:05 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:47:05 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:47:05 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:47:06 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:47:06 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:47:07 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:47:07 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:47:15 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:47:15 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:47:17 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:47:17 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:47:32 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:47:32 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:47:56 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:47:56 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:47:58 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:47:58 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:47:58 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:47:58 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:48:02 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:48:02 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:48:31 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:48:31 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:48:41 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:48:41 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:48:42 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:48:42 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:48:49 UTC] PHP Warning:  require_once(/home/clicktpfx/public_html/public/index.php): failed to open stream: No such file or directory in /home/clicktpfx/public_html/index.php on line 21
+[09-May-2022 11:48:49 UTC] PHP Fatal error:  require_once(): Failed opening required '/home/clicktpfx/public_html/public/index.php' (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/clicktpfx/public_html/index.php on line 21
+[13-May-2022 06:45:04 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[15-May-2022 09:40:02 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jun-2022 05:06:05 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 522
+[22-Jun-2022 05:06:59 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 522
+[22-Jun-2022 05:07:42 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 522
+[22-Jun-2022 05:10:54 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 522
+[22-Jun-2022 05:13:12 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 522
+[22-Jun-2022 05:14:49 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 522
+[22-Jun-2022 05:15:31 UTC] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 522
+[22-Jun-2022 07:43:23 UTC] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/clicktpfx/public_html/vendor/guzzlehttp/psr7/src/Stream.php on line 74
+[25-Jun-2022 10:36:42 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[25-Jun-2022 14:19:43 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[25-Jun-2022 14:24:48 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[25-Jun-2022 14:24:48 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[25-Jun-2022 14:24:48 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[25-Jun-2022 14:24:48 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[25-Jun-2022 14:25:07 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[25-Jun-2022 14:25:08 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[25-Jun-2022 14:25:08 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[25-Jun-2022 14:25:08 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[25-Jun-2022 14:25:08 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[25-Jun-2022 14:25:09 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[25-Jun-2022 14:25:10 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[25-Jun-2022 14:25:10 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[25-Jun-2022 14:25:11 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[25-Jun-2022 14:25:28 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[25-Jun-2022 14:25:28 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[25-Jun-2022 14:25:40 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[25-Jun-2022 14:25:40 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[25-Jun-2022 14:26:20 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[25-Jun-2022 14:26:21 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[25-Jun-2022 14:26:36 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[25-Jun-2022 14:26:36 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[25-Jun-2022 14:27:31 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[25-Jun-2022 14:27:31 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[25-Jun-2022 14:28:13 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[25-Jun-2022 14:28:13 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[25-Jun-2022 14:28:29 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[25-Jun-2022 14:28:30 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[25-Jun-2022 14:29:37 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[25-Jun-2022 14:29:38 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[25-Jun-2022 14:29:58 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[25-Jun-2022 14:29:59 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[25-Jun-2022 14:30:29 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[25-Jun-2022 14:30:29 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[25-Jun-2022 14:30:34 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[25-Jun-2022 14:30:34 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[25-Jun-2022 14:30:36 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[25-Jun-2022 14:30:36 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[10-Jul-2022 00:23:13 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[13-Jul-2022 18:59:09 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:43:05 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:45:16 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:45:17 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:45:17 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:45:18 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:45:36 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:45:37 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:45:40 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:45:41 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:45:52 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:45:52 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:45:53 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:45:54 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:45:55 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:45:56 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:45:57 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:46:28 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:46:29 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:47:07 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:47:07 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:47:51 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:47:52 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:47:57 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:47:58 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:48:19 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:48:20 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:49:00 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:49:01 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:50:04 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:50:05 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:50:28 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:50:29 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:51:10 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:51:39 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:51:40 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:53:36 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:53:37 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:53:37 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:53:37 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:54:28 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:54:29 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:54:30 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:54:32 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:54:33 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:54:34 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:54:35 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:54:35 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:54:37 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:54:38 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:54:39 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:54:40 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:54:42 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:55:39 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:55:40 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:56:20 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:56:21 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:57:28 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:57:29 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:58:04 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:58:06 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:58:13 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:58:14 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:58:46 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:58:47 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:59:39 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 15:59:40 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 16:00:51 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 16:00:53 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 16:01:29 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 16:01:31 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 16:02:08 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 16:02:09 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 16:04:35 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 16:04:35 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 16:05:43 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[19-Jul-2022 16:05:44 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:18:40 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:18:48 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:21:08 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:21:09 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:21:09 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:21:10 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:21:19 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:21:20 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:21:20 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:21:21 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:22:04 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:22:04 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:22:05 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:22:06 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:22:07 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:22:08 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:22:10 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:22:12 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:22:14 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:22:14 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:22:15 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:22:16 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:22:17 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:22:18 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:22:19 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:22:21 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:22:23 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:22:24 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:22:24 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:22:25 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:22:30 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:22:31 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:23:07 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:23:07 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:23:17 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:23:17 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:23:50 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:23:51 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:23:58 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:23:59 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:24:40 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:24:40 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:24:49 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:24:51 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:25:01 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:25:03 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:25:15 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:25:16 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:25:32 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:25:33 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:25:47 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:25:49 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:26:27 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:26:29 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:26:53 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:26:55 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:27:49 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:27:50 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:28:13 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:28:14 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:28:26 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:28:27 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:28:52 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:28:53 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:30:00 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:30:02 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:30:33 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:30:35 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:31:49 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:31:49 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:32:09 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:32:10 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:32:23 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:32:24 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:32:47 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 06:32:48 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 13:58:17 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 13:58:27 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 13:59:36 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 13:59:39 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 13:59:40 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 13:59:41 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 13:59:43 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 13:59:44 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 13:59:46 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 13:59:46 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 13:59:47 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 13:59:48 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 13:59:50 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 13:59:52 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 13:59:53 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 13:59:56 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 13:59:58 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 13:59:59 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 14:01:28 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 14:01:28 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 14:01:29 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 14:01:30 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 14:01:32 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 14:01:33 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 14:01:34 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 14:02:17 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 14:02:17 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 14:02:18 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 14:02:20 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 14:02:23 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 14:02:27 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 14:02:30 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 14:07:04 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 14:07:21 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 14:07:31 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 14:07:33 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 14:10:59 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 14:11:00 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 14:11:00 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 14:11:03 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 14:12:41 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 14:12:42 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 14:12:42 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 14:12:49 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 14:12:49 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 14:12:52 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 14:12:53 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 14:12:55 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 14:13:13 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 14:13:17 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 14:13:20 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 14:13:23 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 14:13:26 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 14:13:29 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 14:14:32 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 14:14:35 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 14:14:44 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 14:14:44 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 14:14:45 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 14:14:45 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 14:14:45 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 14:14:47 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 14:15:10 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 14:15:14 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 14:15:18 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 14:15:22 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 14:15:31 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[21-Jul-2022 14:15:35 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:11:36 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:13:18 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:30:57 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:30:57 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:31:08 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:31:17 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:31:28 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:31:33 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:31:39 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:31:44 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:34:00 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:34:04 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:34:16 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:34:18 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:34:45 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:34:45 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:34:46 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:34:47 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:34:49 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:34:49 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:34:50 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:34:51 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:34:52 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:34:52 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:34:55 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:34:56 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:34:57 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:35:00 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:35:01 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:35:02 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:35:03 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:35:06 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:37:45 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:37:46 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:38:02 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:38:04 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:38:50 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:38:52 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:38:55 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:38:56 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:40:02 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:40:04 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:40:10 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:40:10 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:40:31 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:40:32 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:40:50 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:40:56 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:41:13 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:41:17 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:41:17 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:41:18 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:42:23 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:42:24 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:42:42 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:42:43 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:43:17 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:43:20 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:43:41 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:43:42 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:44:04 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:44:08 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:46:33 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:46:34 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:46:48 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:46:49 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:47:42 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:47:43 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:48:30 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:48:31 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:49:12 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:49:13 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:49:50 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:49:53 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:50:59 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[22-Jul-2022 14:51:00 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:14:44 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:14:52 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:17:13 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:17:14 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:17:15 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:17:15 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:17:19 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:17:20 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:17:20 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:17:21 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:18:17 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:18:18 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:18:26 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:18:26 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:18:27 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:18:29 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:18:30 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:18:30 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:18:31 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:18:31 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:18:33 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:18:33 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:18:34 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:18:34 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:18:35 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:18:36 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:18:37 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:18:39 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:18:39 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:18:40 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:18:42 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:18:42 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:19:52 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:19:54 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:19:56 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:19:57 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:20:55 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:20:56 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:21:02 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:21:03 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:21:43 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:21:44 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:21:50 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:21:51 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:22:12 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:22:14 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:22:26 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:22:29 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:22:31 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:22:33 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:23:03 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:23:05 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:23:55 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:23:56 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:24:22 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:24:24 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:25:31 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:25:33 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:25:58 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:26:00 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:26:49 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:26:50 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:27:16 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:27:18 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:28:23 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:28:25 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:28:39 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:28:40 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:30:14 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:30:15 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:30:36 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:30:38 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:32:08 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:32:09 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:32:27 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[28-Jul-2022 09:32:28 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[20-Aug-2022 11:38:15 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[17-Feb-2023 08:44:39 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[17-Feb-2023 13:13:39 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/index.php on line 17
+[20-Apr-2023 14:55:20 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1323008 bytes) in /home/clicktpfx/public_html/vendor/league/commonmark/src/Util/HtmlElement.php on line 135
+[20-Apr-2023 14:55:28 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1323008 bytes) in /home/clicktpfx/public_html/vendor/league/commonmark/src/Util/HtmlElement.php on line 135
+[20-Apr-2023 14:55:32 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1323008 bytes) in /home/clicktpfx/public_html/vendor/league/commonmark/src/Util/HtmlElement.php on line 135
+[20-Apr-2023 14:55:37 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1323008 bytes) in /home/clicktpfx/public_html/vendor/league/commonmark/src/Util/HtmlElement.php on line 135
+[20-Apr-2023 14:57:34 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1323008 bytes) in /home/clicktpfx/public_html/vendor/league/commonmark/src/Util/HtmlElement.php on line 135
+[25-May-2023 12:18:30 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in /home/clicktpfx/public_html/vendor/composer/autoload_static.php on line 1926
+[25-May-2023 12:18:30 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in /home/clicktpfx/public_html/vendor/composer/autoload_static.php on line 1995
+[25-May-2023 12:18:30 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in /home/clicktpfx/public_html/vendor/composer/autoload_static.php on line 1996
+[25-May-2023 12:18:30 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in /home/clicktpfx/public_html/vendor/composer/autoload_static.php on line 1926
+[25-May-2023 12:18:30 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 4096 bytes) in /home/clicktpfx/public_html/vendor/composer/autoload_static.php on line 1992
+[21-Jun-2023 18:20:48 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 40960 bytes) in /home/clicktpfx/public_html/vendor/composer/ClassLoader.php on line 571
+[21-Jun-2023 18:27:22 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 40960 bytes) in /home/clicktpfx/public_html/vendor/composer/ClassLoader.php on line 571
+[28-Jun-2023 09:50:16 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[28-Jun-2023 09:50:43 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[28-Jun-2023 09:53:51 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[28-Jun-2023 14:21:30 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 966656 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[01-Jul-2023 14:35:14 Asia/Jakarta] Error input leads to CRM
+[01-Jul-2023 14:36:22 Asia/Jakarta] Error input leads to CRM
+[01-Jul-2023 14:37:58 Asia/Jakarta] 404
+[01-Jul-2023 14:39:12 Asia/Jakarta] 404
+[01-Jul-2023 14:39:24 Asia/Jakarta] 404
+[03-Jul-2023 12:32:23 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 966656 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[04-Jul-2023 09:21:45 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 966656 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[04-Jul-2023 09:21:48 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 966656 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[04-Jul-2023 09:22:00 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 966656 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[04-Jul-2023 09:22:02 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 966656 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[04-Jul-2023 09:24:35 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 966656 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[04-Jul-2023 09:30:10 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 966656 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[04-Jul-2023 09:36:46 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 966656 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[04-Jul-2023 09:36:50 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 966656 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[04-Jul-2023 09:45:43 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 966656 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[04-Jul-2023 10:04:43 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 966656 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[04-Jul-2023 10:05:42 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 966656 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[04-Jul-2023 10:05:43 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 966656 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[04-Jul-2023 14:37:24 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 966656 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[04-Jul-2023 14:37:45 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 966656 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[04-Jul-2023 14:39:26 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1064960 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[04-Jul-2023 14:44:53 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1064960 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[04-Jul-2023 14:48:09 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1064960 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[04-Jul-2023 14:48:21 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1064960 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[04-Jul-2023 14:48:57 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1064960 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[04-Jul-2023 14:49:53 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1064960 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[04-Jul-2023 14:50:26 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1064960 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[04-Jul-2023 14:51:34 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1048576 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[04-Jul-2023 14:52:12 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 966656 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[04-Jul-2023 14:56:28 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1064960 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[04-Jul-2023 15:03:39 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1064960 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[04-Jul-2023 15:03:46 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1064960 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[04-Jul-2023 15:04:33 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1064960 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[04-Jul-2023 15:08:25 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1064960 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[04-Jul-2023 15:17:41 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1064960 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[04-Jul-2023 15:17:49 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1064960 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[04-Jul-2023 15:18:33 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1064960 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[04-Jul-2023 15:20:27 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1064960 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[04-Jul-2023 15:28:36 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1064960 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[04-Jul-2023 16:45:14 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1064960 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[04-Jul-2023 17:33:21 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 884736 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[04-Jul-2023 17:33:52 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 884736 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[05-Jul-2023 17:52:51 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1048576 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[05-Jul-2023 18:15:09 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2097152 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[05-Jul-2023 18:15:19 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2113536 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[05-Jul-2023 18:15:44 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 2080768 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[05-Jul-2023 18:15:58 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1048576 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[05-Jul-2023 18:16:00 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1048576 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[05-Jul-2023 18:16:27 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 1048576 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[06-Jul-2023 17:41:22 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 966656 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[10-Jul-2023 16:53:54 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 884736 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[10-Jul-2023 16:53:59 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 884736 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[10-Jul-2023 17:05:51 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[10-Jul-2023 17:06:07 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[11-Jul-2023 09:03:10 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 135168 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 375
+[11-Jul-2023 09:09:43 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 966656 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[11-Jul-2023 12:08:03 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 496
+[11-Jul-2023 12:08:07 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 496
+[11-Jul-2023 12:10:00 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 496
+[11-Jul-2023 12:10:21 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/clicktpfx/public_html/vendor/yajra/laravel-datatables-oracle/src/Processors/DataProcessor.php on line 113
+[11-Jul-2023 12:13:43 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/clicktpfx/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Creator.php on line 98
+[11-Jul-2023 12:13:46 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/clicktpfx/public_html/vendor/yajra/laravel-datatables-oracle/src/Processors/DataProcessor.php on line 113
+[11-Jul-2023 12:14:05 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/clicktpfx/public_html/vendor/yajra/laravel-datatables-oracle/src/Processors/DataProcessor.php on line 113
+[11-Jul-2023 12:14:43 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/clicktpfx/public_html/vendor/nesbot/carbon/src/Carbon/Traits/Converter.php on line 105
+[11-Jul-2023 13:28:43 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 933888 bytes) in /home/clicktpfx/public_html/vendor/laravel/framework/src/Illuminate/Database/Connection.php on line 373
+[31-Jul-2023 14:23:32 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/clicktpfx/public_html/app/Http/Controllers/FTDController.php on line 265
+[31-Jul-2023 14:24:06 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/clicktpfx/public_html/app/Http/Controllers/FTDController.php on line 265
+[31-Jul-2023 14:25:21 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/clicktpfx/public_html/app/Http/Controllers/FTDController.php on line 265
+[31-Jul-2023 14:25:59 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/clicktpfx/public_html/app/Http/Controllers/FTDController.php on line 265
+[31-Jul-2023 14:26:34 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/clicktpfx/public_html/app/Http/Controllers/FTDController.php on line 264
+[31-Jul-2023 14:27:11 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/clicktpfx/public_html/app/Http/Controllers/FTDController.php on line 264
+[31-Jul-2023 14:27:24 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/clicktpfx/public_html/app/Http/Controllers/FTDController.php on line 264
+[31-Jul-2023 14:29:31 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/clicktpfx/public_html/app/Http/Controllers/FTDController.php on line 264
+[31-Jul-2023 14:30:48 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/clicktpfx/public_html/app/Http/Controllers/FTDController.php on line 264
+[31-Jul-2023 14:32:54 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/clicktpfx/public_html/app/Http/Controllers/FTDController.php on line 264
+[31-Jul-2023 14:33:09 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 4096 bytes) in /home/clicktpfx/public_html/app/Http/Controllers/FTDController.php on line 264
+[31-Jul-2023 14:33:19 Asia/Jakarta] PHP Fatal error:  Allowed memory size of 33554432 bytes exhausted (tried to allocate 20480 bytes) in /home/clicktpfx/public_html/app/Http/Controllers/FTDController.php on line 264
+[05-Dec-2023 02:16:27 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/staging/index.php on line 17
+[05-Dec-2023 02:37:44 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/staging/index.php on line 17
+[05-Dec-2023 02:37:55 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/staging/index.php on line 17
+[05-Dec-2023 02:38:15 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/staging/index.php on line 17
+[05-Dec-2023 02:38:48 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/staging/index.php on line 17
+[05-Dec-2023 03:07:26 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/staging/index.php on line 17
+[05-Dec-2023 03:07:53 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/staging/index.php on line 17
+[05-Dec-2023 03:08:52 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/staging/index.php on line 17
+[05-Dec-2023 03:10:15 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/staging/index.php on line 17
+[05-Dec-2023 03:11:34 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/staging/index.php on line 17
+[05-Dec-2023 03:13:13 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/staging/index.php on line 17
+[05-Dec-2023 03:15:34 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/staging/index.php on line 17
+[05-Dec-2023 06:35:09 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/staging/index.php on line 17
+[05-Dec-2023 06:35:56 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/staging/index.php on line 17
+[05-Dec-2023 06:43:31 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/staging/index.php on line 17
+[05-Dec-2023 06:44:17 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/staging/index.php on line 17
+[05-Dec-2023 06:47:40 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/staging/index.php on line 17
+[05-Dec-2023 07:03:59 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/staging/index.php on line 17
+[05-Dec-2023 07:05:07 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/staging/index.php on line 17
+[05-Dec-2023 07:07:57 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/staging/index.php on line 17
+[05-Dec-2023 07:08:14 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/staging/index.php on line 17
+[05-Dec-2023 07:19:15 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/staging/index.php on line 17
+[05-Dec-2023 07:19:39 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/staging/index.php on line 17
+[05-Dec-2023 07:40:19 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/staging/index.php on line 17
+[05-Dec-2023 07:40:44 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/staging/index.php on line 17
+[05-Dec-2023 07:49:14 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/staging/index.php on line 17
+[05-Dec-2023 07:49:36 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/staging/index.php on line 17
+[05-Dec-2023 08:32:09 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/staging/index.php on line 17
+[05-Dec-2023 08:32:32 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/staging/index.php on line 17
+[05-Dec-2023 08:54:18 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/staging/index.php on line 17
+[05-Dec-2023 08:55:01 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/staging/index.php on line 17
+[05-Dec-2023 09:12:31 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/staging/index.php on line 17
+[05-Dec-2023 09:12:58 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/staging/index.php on line 17
+[05-Dec-2023 09:34:02 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/staging/index.php on line 17
+[05-Dec-2023 09:34:24 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/staging/index.php on line 17
+[05-Dec-2023 09:55:09 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/staging/index.php on line 17
+[05-Dec-2023 09:55:36 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/staging/index.php on line 17
+[05-Dec-2023 10:18:08 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/staging/index.php on line 17
+[05-Dec-2023 10:18:11 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/staging/index.php on line 17
+[05-Dec-2023 10:25:23 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/staging/index.php on line 17
+[09-Dec-2023 06:03:05 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/staging/index.php on line 17
+[09-Dec-2023 06:05:12 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/staging/index.php on line 17
+[09-Dec-2023 06:06:58 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/staging/index.php on line 17
+[09-Dec-2023 06:10:25 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 32768 bytes) in /home/clicktpfx/public_html/staging/vendor/composer/autoload_static.php on line 1939
+[09-Dec-2023 06:10:25 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 32768 bytes) in /home/clicktpfx/public_html/staging/vendor/composer/autoload_static.php on line 1939
+[09-Dec-2023 06:10:26 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 32768 bytes) in /home/clicktpfx/public_html/staging/vendor/composer/autoload_static.php on line 1939
+[09-Dec-2023 06:12:55 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/staging/index.php on line 17
+[06-Feb-2024 16:42:01 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/staging/index.php on line 17
+[06-Feb-2024 23:43:37 Asia/Jakarta] PHP Fatal error:  Out of memory (allocated 16777216) (tried to allocate 1310720 bytes) in /home/clicktpfx/public_html/staging/vendor/symfony/http-foundation/Response.php on line 953
+[06-Feb-2024 23:43:48 Asia/Jakarta] PHP Fatal error:  Out of memory (allocated 14680064) (tried to allocate 20480 bytes) in /home/clicktpfx/public_html/staging/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php on line 555
+[06-Feb-2024 23:43:48 Asia/Jakarta] PHP Fatal error:  Out of memory (allocated 14680064) (tried to allocate 20480 bytes) in /home/clicktpfx/public_html/staging/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php on line 555
+[06-Feb-2024 23:43:48 Asia/Jakarta] PHP Fatal error:  Out of memory (allocated 14680064) (tried to allocate 32768 bytes) in /home/clicktpfx/public_html/staging/vendor/laravel/framework/src/Illuminate/Foundation/Exceptions/Handler.php on line 391
+[06-Feb-2024 23:44:28 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/clicktpfx/public_html/staging/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/clicktpfx/public_html/staging/vendor/composer/ClassLoader.php(571): include()
+#1 /home/clicktpfx/public_html/staging/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/clicktpfx...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/clicktpfx/public_html/staging/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/clicktpfx/public_html/staging/vendor/composer/ClassLoader.php(571): include('/home/clicktpfx...')
+#5 /home/clicktpfx/public_html/staging/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/clicktpfx...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/clicktpfx/public_html/staging/vendor/laravel/framework/src in /home/clicktpfx/public_html/staging/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[06-Feb-2024 16:48:02 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/staging/index.php on line 17
+[06-Feb-2024 23:50:23 Asia/Jakarta] PHP Fatal error:  Out of memory (allocated 12582912) (tried to allocate 81920 bytes) in /home/clicktpfx/public_html/staging/vendor/composer/ClassLoader.php on line 571
+[06-Feb-2024 16:50:34 UTC] PHP Fatal error:  Out of memory (allocated 2097152) (tried to allocate 32768 bytes) in /home/clicktpfx/public_html/staging/vendor/composer/autoload_static.php on line 1939
+[06-Feb-2024 23:50:58 Asia/Jakarta] PHP Fatal error:  Uncaught Error: Interface 'JsonSerializable' not found in /home/clicktpfx/public_html/staging/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php:11
+Stack trace:
+#0 /home/clicktpfx/public_html/staging/vendor/composer/ClassLoader.php(571): include()
+#1 /home/clicktpfx/public_html/staging/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/clicktpfx...')
+#2 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#3 /home/clicktpfx/public_html/staging/vendor/laravel/framework/src/Illuminate/Collections/Collection.php(12): spl_autoload_call('Illuminate\\Supp...')
+#4 /home/clicktpfx/public_html/staging/vendor/composer/ClassLoader.php(571): include('/home/clicktpfx...')
+#5 /home/clicktpfx/public_html/staging/vendor/composer/ClassLoader.php(428): Composer\Autoload\includeFile('/home/clicktpfx...')
+#6 [internal function]: Composer\Autoload\ClassLoader->loadClass('Illuminate\\Supp...')
+#7 /home/clicktpfx/public_html/staging/vendor/laravel/framework/src in /home/clicktpfx/public_html/staging/vendor/laravel/framework/src/Illuminate/Collections/Enumerable.php on line 11
+[06-Feb-2024 16:54:10 UTC] PHP Warning:  file_exists() expects parameter 1 to be a valid path, string given in /home/clicktpfx/public_html/staging/index.php on line 17

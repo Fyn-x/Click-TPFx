@@ -1,0 +1,1 @@
+$(".modal-effect").on("click",(function(e){e.preventDefault();var t=$(this).attr("data-effect");$("#modaldemo8").addClass(t)})),$("#modaldemo8").on("hidden.bs.modal",(function(e){$(this).removeClass((function(e,t){return(t.match(/(^|\s)effect-\S+/g)||[]).join(" ")}))}));

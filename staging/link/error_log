@@ -1,0 +1,265 @@
+[09-Aug-2023 03:00:09 UTC] PHP Warning:  Undefined variable $Ah in /home/tpfx/public_html/link/adminer.php on line 1787
+[09-Aug-2023 03:00:09 UTC] PHP Warning:  Undefined variable $Ah in /home/tpfx/public_html/link/adminer.php on line 1787
+[09-Aug-2023 03:00:09 UTC] PHP Warning:  Undefined variable $Ah in /home/tpfx/public_html/link/adminer.php on line 1787
+[09-Aug-2023 03:00:09 UTC] PHP Warning:  Undefined variable $Ah in /home/tpfx/public_html/link/adminer.php on line 1787
+[09-Aug-2023 03:00:09 UTC] PHP Warning:  Undefined variable $Ah in /home/tpfx/public_html/link/adminer.php on line 1787
+[09-Aug-2023 03:00:09 UTC] PHP Warning:  Undefined variable $Ah in /home/tpfx/public_html/link/adminer.php on line 1787
+[09-Aug-2023 03:08:45 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 495616 bytes) in /home/tpfx/public_html/link/wp-includes/class-wpdb.php on line 1793
+[09-Aug-2023 03:09:25 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 520192 bytes) in /home/tpfx/public_html/link/wp-includes/class-wpdb.php on line 1317
+[09-Aug-2023 03:11:54 UTC] PHP Warning:  Undefined variable $Ah in /home/tpfx/public_html/link/adminer.php on line 1787
+[09-Aug-2023 03:11:54 UTC] PHP Warning:  Undefined variable $Ah in /home/tpfx/public_html/link/adminer.php on line 1787
+[09-Aug-2023 03:11:54 UTC] PHP Warning:  Undefined variable $Ah in /home/tpfx/public_html/link/adminer.php on line 1787
+[09-Aug-2023 03:11:54 UTC] PHP Warning:  Undefined variable $Ah in /home/tpfx/public_html/link/adminer.php on line 1787
+[09-Aug-2023 03:11:54 UTC] PHP Warning:  Undefined variable $Ah in /home/tpfx/public_html/link/adminer.php on line 1787
+[09-Aug-2023 03:11:54 UTC] PHP Warning:  Undefined variable $Ah in /home/tpfx/public_html/link/adminer.php on line 1787
+[09-Aug-2023 03:11:54 UTC] PHP Warning:  Undefined variable $Ah in /home/tpfx/public_html/link/adminer.php on line 1787
+[09-Aug-2023 03:11:54 UTC] PHP Warning:  Undefined variable $Ah in /home/tpfx/public_html/link/adminer.php on line 1787
+[09-Aug-2023 03:11:54 UTC] PHP Warning:  Undefined variable $Ah in /home/tpfx/public_html/link/adminer.php on line 1787
+[09-Aug-2023 03:11:54 UTC] PHP Warning:  Undefined variable $Ah in /home/tpfx/public_html/link/adminer.php on line 1787
+[09-Aug-2023 03:11:56 UTC] PHP Fatal error:  Allowed memory size of 41943040 bytes exhausted (tried to allocate 20480 bytes) in /home/tpfx/public_html/link/wp-includes/class-wp-dependencies.php on line 260
+[16-Aug-2023 03:28:50 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Elementor\Core\get_plugins() in /home/tpfx/public_html/link/wp-content/plugins/elementor/core/wp-api.php:26
+Stack trace:
+#0 /home/tpfx/public_html/link/wp-content/plugins/elementor/modules/compatibility-tag/base-module.php(96): Elementor\Core\Wp_Api->get_plugins()
+#1 /home/tpfx/public_html/link/wp-content/plugins/elementor/modules/compatibility-tag/base-module.php(58): Elementor\Modules\CompatibilityTag\Base_Module->get_plugins_with_header()
+#2 /home/tpfx/public_html/link/wp-content/plugins/elementor/modules/compatibility-tag/module.php(57): Elementor\Modules\CompatibilityTag\Base_Module->get_plugins_to_check()
+#3 /home/tpfx/public_html/link/wp-content/plugins/elementor/modules/compatibility-tag/base-module.php(148): Elementor\Modules\CompatibilityTag\Module->get_plugins_to_check()
+#4 /home/tpfx/public_html/link/wp-includes/class-wp-hook.php(310): Elementor\Modules\CompatibilityTag\Base_Module->Elementor\Modules\CompatibilityTag\{closure}('')
+#5 /home/tpfx/public_html/link/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#6 /home/tpfx/public_html/link/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /home/tpfx/public_html/link/wp-content/plugins/elementor/modules/system-info/module.php(334): do_action('elementor/syste...')
+#8 /home/tpfx/public_html/link/wp-content/plugins/elementor/includes/tracker.php(241): Elementor\Modules\System_Info\Module::get_allowed_reports()
+#9 /home/tpfx/public_html/link/wp-content/plugins/elementor/includes/tracker.php(530): Elementor\Tracker::get_system_reports_data()
+#10 /home/tpfx/public_html/link/wp-content/plugins/elementor/includes/tracker.php(141): Elementor\Tracker::get_tracking_data(false)
+#11 /home/tpfx/public_html/link/wp-includes/class-wp-hook.php(310): Elementor\Tracker::send_tracking_data()
+#12 /home/tpfx/public_html/link/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#13 /home/tpfx/public_html/link/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#14 /home/tpfx/public_html/link/wp-cron.php(191): do_action_ref_array('elementor/track...', Array)
+#15 {main}
+  thrown in /home/tpfx/public_html/link/wp-content/plugins/elementor/core/wp-api.php on line 26
+[07-Sep-2023 03:27:47 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Elementor\Core\get_plugins() in /home/tpfx/public_html/link/wp-content/plugins/elementor/core/wp-api.php:26
+Stack trace:
+#0 /home/tpfx/public_html/link/wp-content/plugins/elementor/modules/compatibility-tag/base-module.php(96): Elementor\Core\Wp_Api->get_plugins()
+#1 /home/tpfx/public_html/link/wp-content/plugins/elementor/modules/compatibility-tag/base-module.php(58): Elementor\Modules\CompatibilityTag\Base_Module->get_plugins_with_header()
+#2 /home/tpfx/public_html/link/wp-content/plugins/elementor/modules/compatibility-tag/module.php(57): Elementor\Modules\CompatibilityTag\Base_Module->get_plugins_to_check()
+#3 /home/tpfx/public_html/link/wp-content/plugins/elementor/modules/compatibility-tag/base-module.php(148): Elementor\Modules\CompatibilityTag\Module->get_plugins_to_check()
+#4 /home/tpfx/public_html/link/wp-includes/class-wp-hook.php(310): Elementor\Modules\CompatibilityTag\Base_Module->Elementor\Modules\CompatibilityTag\{closure}('')
+#5 /home/tpfx/public_html/link/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#6 /home/tpfx/public_html/link/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /home/tpfx/public_html/link/wp-content/plugins/elementor/modules/system-info/module.php(334): do_action('elementor/syste...')
+#8 /home/tpfx/public_html/link/wp-content/plugins/elementor/includes/tracker.php(241): Elementor\Modules\System_Info\Module::get_allowed_reports()
+#9 /home/tpfx/public_html/link/wp-content/plugins/elementor/includes/tracker.php(530): Elementor\Tracker::get_system_reports_data()
+#10 /home/tpfx/public_html/link/wp-content/plugins/elementor/includes/tracker.php(141): Elementor\Tracker::get_tracking_data(false)
+#11 /home/tpfx/public_html/link/wp-includes/class-wp-hook.php(310): Elementor\Tracker::send_tracking_data()
+#12 /home/tpfx/public_html/link/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#13 /home/tpfx/public_html/link/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#14 /home/tpfx/public_html/link/wp-cron.php(191): do_action_ref_array('elementor/track...', Array)
+#15 {main}
+  thrown in /home/tpfx/public_html/link/wp-content/plugins/elementor/core/wp-api.php on line 26
+[07-Sep-2023 04:21:47 UTC] Cron reschedule event error for hook: action_scheduler_run_queue, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"every_minute","args":["WP Cron"],"interval":60}
+[15-Sep-2023 03:26:40 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Elementor\Core\get_plugins() in /home/tpfx/public_html/link/wp-content/plugins/elementor/core/wp-api.php:26
+Stack trace:
+#0 /home/tpfx/public_html/link/wp-content/plugins/elementor/modules/compatibility-tag/base-module.php(96): Elementor\Core\Wp_Api->get_plugins()
+#1 /home/tpfx/public_html/link/wp-content/plugins/elementor/modules/compatibility-tag/base-module.php(58): Elementor\Modules\CompatibilityTag\Base_Module->get_plugins_with_header()
+#2 /home/tpfx/public_html/link/wp-content/plugins/elementor/modules/compatibility-tag/module.php(57): Elementor\Modules\CompatibilityTag\Base_Module->get_plugins_to_check()
+#3 /home/tpfx/public_html/link/wp-content/plugins/elementor/modules/compatibility-tag/base-module.php(148): Elementor\Modules\CompatibilityTag\Module->get_plugins_to_check()
+#4 /home/tpfx/public_html/link/wp-includes/class-wp-hook.php(310): Elementor\Modules\CompatibilityTag\Base_Module->Elementor\Modules\CompatibilityTag\{closure}('')
+#5 /home/tpfx/public_html/link/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#6 /home/tpfx/public_html/link/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /home/tpfx/public_html/link/wp-content/plugins/elementor/modules/system-info/module.php(334): do_action('elementor/syste...')
+#8 /home/tpfx/public_html/link/wp-content/plugins/elementor/includes/tracker.php(241): Elementor\Modules\System_Info\Module::get_allowed_reports()
+#9 /home/tpfx/public_html/link/wp-content/plugins/elementor/includes/tracker.php(530): Elementor\Tracker::get_system_reports_data()
+#10 /home/tpfx/public_html/link/wp-content/plugins/elementor/includes/tracker.php(141): Elementor\Tracker::get_tracking_data(false)
+#11 /home/tpfx/public_html/link/wp-includes/class-wp-hook.php(310): Elementor\Tracker::send_tracking_data()
+#12 /home/tpfx/public_html/link/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#13 /home/tpfx/public_html/link/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#14 /home/tpfx/public_html/link/wp-cron.php(191): do_action_ref_array('elementor/track...', Array)
+#15 {main}
+  thrown in /home/tpfx/public_html/link/wp-content/plugins/elementor/core/wp-api.php on line 26
+[19-Sep-2023 01:57:39 UTC] Cron reschedule event error for hook: elementor_1_elementor_pro_updater_cron, Error code: invalid_schedule, Error message: Event schedule does not exist., Data: {"schedule":"elementor_1_elementor_pro_updater_cron_interval","args":[],"interval":300}
+[19-Sep-2023 01:57:39 UTC] PHP Fatal error:  Uncaught Error: Class "FrmAppHelper" not found in /home/tpfx/public_html/link/wp-content/plugins/formidable-api/controllers/FrmAPIAppController.php:492
+Stack trace:
+#0 /home/tpfx/public_html/link/wp-content/plugins/formidable-api/controllers/FrmAPIAppController.php(480): FrmAPIAppController::check_for_safari_exception()
+#1 /home/tpfx/public_html/link/wp-content/plugins/formidable-api/controllers/FrmAPIAppController.php(400): FrmAPIAppController::request_is_from_iframe()
+#2 /home/tpfx/public_html/link/wp-includes/class-wp-hook.php(310): FrmAPIAppController::maybe_add_scripts_before_landing_page('')
+#3 /home/tpfx/public_html/link/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#4 /home/tpfx/public_html/link/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home/tpfx/public_html/link/wp-includes/general-template.php(3053): do_action('wp_head')
+#6 /home/tpfx/public_html/link/wp-content/plugins/elementor/modules/page-templates/templates/canvas.php(19): wp_head()
+#7 /home/tpfx/public_html/link/wp-includes/template-loader.php(106): include('/home/tpfx/publ...')
+#8 /home/tpfx/public_html/link/wp-blog-header.php(19): require_once('/home/tpfx/publ...')
+#9 /home/tpfx/public_html/link/index.php(17): require('/home/tpfx/publ...')
+#10 {main}
+  thrown in /home/tpfx/public_html/link/wp-content/plugins/formidable-api/controllers/FrmAPIAppController.php on line 492
+[19-Sep-2023 01:57:48 UTC] PHP Fatal error:  Uncaught Error: Class "FrmAppHelper" not found in /home/tpfx/public_html/link/wp-content/plugins/formidable-api/controllers/FrmAPIAppController.php:492
+Stack trace:
+#0 /home/tpfx/public_html/link/wp-content/plugins/formidable-api/controllers/FrmAPIAppController.php(480): FrmAPIAppController::check_for_safari_exception()
+#1 /home/tpfx/public_html/link/wp-content/plugins/formidable-api/controllers/FrmAPIAppController.php(400): FrmAPIAppController::request_is_from_iframe()
+#2 /home/tpfx/public_html/link/wp-includes/class-wp-hook.php(310): FrmAPIAppController::maybe_add_scripts_before_landing_page('')
+#3 /home/tpfx/public_html/link/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#4 /home/tpfx/public_html/link/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home/tpfx/public_html/link/wp-includes/general-template.php(3053): do_action('wp_head')
+#6 /home/tpfx/public_html/link/wp-content/plugins/elementor/modules/page-templates/templates/canvas.php(19): wp_head()
+#7 /home/tpfx/public_html/link/wp-includes/template-loader.php(106): include('/home/tpfx/publ...')
+#8 /home/tpfx/public_html/link/wp-blog-header.php(19): require_once('/home/tpfx/publ...')
+#9 /home/tpfx/public_html/link/index.php(17): require('/home/tpfx/publ...')
+#10 {main}
+  thrown in /home/tpfx/public_html/link/wp-content/plugins/formidable-api/controllers/FrmAPIAppController.php on line 492
+[19-Sep-2023 01:58:21 UTC] PHP Fatal error:  Uncaught Error: Class "FrmAppHelper" not found in /home/tpfx/public_html/link/wp-content/plugins/formidable-api/controllers/FrmAPIAppController.php:492
+Stack trace:
+#0 /home/tpfx/public_html/link/wp-content/plugins/formidable-api/controllers/FrmAPIAppController.php(480): FrmAPIAppController::check_for_safari_exception()
+#1 /home/tpfx/public_html/link/wp-content/plugins/formidable-api/controllers/FrmAPIAppController.php(400): FrmAPIAppController::request_is_from_iframe()
+#2 /home/tpfx/public_html/link/wp-includes/class-wp-hook.php(310): FrmAPIAppController::maybe_add_scripts_before_landing_page('')
+#3 /home/tpfx/public_html/link/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#4 /home/tpfx/public_html/link/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home/tpfx/public_html/link/wp-includes/general-template.php(3053): do_action('wp_head')
+#6 /home/tpfx/public_html/link/wp-content/plugins/elementor/modules/page-templates/templates/canvas.php(19): wp_head()
+#7 /home/tpfx/public_html/link/wp-includes/template-loader.php(106): include('/home/tpfx/publ...')
+#8 /home/tpfx/public_html/link/wp-blog-header.php(19): require_once('/home/tpfx/publ...')
+#9 /home/tpfx/public_html/link/index.php(17): require('/home/tpfx/publ...')
+#10 {main}
+  thrown in /home/tpfx/public_html/link/wp-content/plugins/formidable-api/controllers/FrmAPIAppController.php on line 492
+[19-Sep-2023 01:58:24 UTC] PHP Fatal error:  Uncaught Error: Class "FrmAppHelper" not found in /home/tpfx/public_html/link/wp-content/plugins/formidable-api/controllers/FrmAPIAppController.php:492
+Stack trace:
+#0 /home/tpfx/public_html/link/wp-content/plugins/formidable-api/controllers/FrmAPIAppController.php(480): FrmAPIAppController::check_for_safari_exception()
+#1 /home/tpfx/public_html/link/wp-content/plugins/formidable-api/controllers/FrmAPIAppController.php(400): FrmAPIAppController::request_is_from_iframe()
+#2 /home/tpfx/public_html/link/wp-includes/class-wp-hook.php(310): FrmAPIAppController::maybe_add_scripts_before_landing_page('')
+#3 /home/tpfx/public_html/link/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#4 /home/tpfx/public_html/link/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home/tpfx/public_html/link/wp-includes/general-template.php(3053): do_action('wp_head')
+#6 /home/tpfx/public_html/link/wp-content/plugins/elementor/modules/page-templates/templates/canvas.php(19): wp_head()
+#7 /home/tpfx/public_html/link/wp-includes/template-loader.php(106): include('/home/tpfx/publ...')
+#8 /home/tpfx/public_html/link/wp-blog-header.php(19): require_once('/home/tpfx/publ...')
+#9 /home/tpfx/public_html/link/index.php(17): require('/home/tpfx/publ...')
+#10 {main}
+  thrown in /home/tpfx/public_html/link/wp-content/plugins/formidable-api/controllers/FrmAPIAppController.php on line 492
+[19-Sep-2023 01:58:46 UTC] PHP Fatal error:  Uncaught Error: Class "FrmAppHelper" not found in /home/tpfx/public_html/link/wp-content/plugins/formidable-api/controllers/FrmAPIAppController.php:492
+Stack trace:
+#0 /home/tpfx/public_html/link/wp-content/plugins/formidable-api/controllers/FrmAPIAppController.php(480): FrmAPIAppController::check_for_safari_exception()
+#1 /home/tpfx/public_html/link/wp-content/plugins/formidable-api/controllers/FrmAPIAppController.php(400): FrmAPIAppController::request_is_from_iframe()
+#2 /home/tpfx/public_html/link/wp-includes/class-wp-hook.php(310): FrmAPIAppController::maybe_add_scripts_before_landing_page('')
+#3 /home/tpfx/public_html/link/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#4 /home/tpfx/public_html/link/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home/tpfx/public_html/link/wp-includes/general-template.php(3053): do_action('wp_head')
+#6 /home/tpfx/public_html/link/wp-content/plugins/elementor/modules/page-templates/templates/canvas.php(19): wp_head()
+#7 /home/tpfx/public_html/link/wp-includes/template-loader.php(106): include('/home/tpfx/publ...')
+#8 /home/tpfx/public_html/link/wp-blog-header.php(19): require_once('/home/tpfx/publ...')
+#9 /home/tpfx/public_html/link/index.php(17): require('/home/tpfx/publ...')
+#10 {main}
+  thrown in /home/tpfx/public_html/link/wp-content/plugins/formidable-api/controllers/FrmAPIAppController.php on line 492
+[19-Sep-2023 01:58:47 UTC] PHP Fatal error:  Uncaught Error: Class "FrmAppHelper" not found in /home/tpfx/public_html/link/wp-content/plugins/formidable-api/controllers/FrmAPIAppController.php:492
+Stack trace:
+#0 /home/tpfx/public_html/link/wp-content/plugins/formidable-api/controllers/FrmAPIAppController.php(480): FrmAPIAppController::check_for_safari_exception()
+#1 /home/tpfx/public_html/link/wp-content/plugins/formidable-api/controllers/FrmAPIAppController.php(400): FrmAPIAppController::request_is_from_iframe()
+#2 /home/tpfx/public_html/link/wp-includes/class-wp-hook.php(310): FrmAPIAppController::maybe_add_scripts_before_landing_page('')
+#3 /home/tpfx/public_html/link/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#4 /home/tpfx/public_html/link/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home/tpfx/public_html/link/wp-includes/general-template.php(3053): do_action('wp_head')
+#6 /home/tpfx/public_html/link/wp-content/plugins/elementor/modules/page-templates/templates/canvas.php(19): wp_head()
+#7 /home/tpfx/public_html/link/wp-includes/template-loader.php(106): include('/home/tpfx/publ...')
+#8 /home/tpfx/public_html/link/wp-blog-header.php(19): require_once('/home/tpfx/publ...')
+#9 /home/tpfx/public_html/link/index.php(17): require('/home/tpfx/publ...')
+#10 {main}
+  thrown in /home/tpfx/public_html/link/wp-content/plugins/formidable-api/controllers/FrmAPIAppController.php on line 492
+[19-Sep-2023 01:58:55 UTC] PHP Fatal error:  Uncaught Error: Class "FrmAppHelper" not found in /home/tpfx/public_html/link/wp-content/plugins/formidable-api/controllers/FrmAPIAppController.php:492
+Stack trace:
+#0 /home/tpfx/public_html/link/wp-content/plugins/formidable-api/controllers/FrmAPIAppController.php(480): FrmAPIAppController::check_for_safari_exception()
+#1 /home/tpfx/public_html/link/wp-content/plugins/formidable-api/controllers/FrmAPIAppController.php(400): FrmAPIAppController::request_is_from_iframe()
+#2 /home/tpfx/public_html/link/wp-includes/class-wp-hook.php(310): FrmAPIAppController::maybe_add_scripts_before_landing_page('')
+#3 /home/tpfx/public_html/link/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#4 /home/tpfx/public_html/link/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home/tpfx/public_html/link/wp-includes/general-template.php(3053): do_action('wp_head')
+#6 /home/tpfx/public_html/link/wp-content/plugins/elementor/modules/page-templates/templates/canvas.php(19): wp_head()
+#7 /home/tpfx/public_html/link/wp-includes/template-loader.php(106): include('/home/tpfx/publ...')
+#8 /home/tpfx/public_html/link/wp-blog-header.php(19): require_once('/home/tpfx/publ...')
+#9 /home/tpfx/public_html/link/index.php(17): require('/home/tpfx/publ...')
+#10 {main}
+  thrown in /home/tpfx/public_html/link/wp-content/plugins/formidable-api/controllers/FrmAPIAppController.php on line 492
+[20-Sep-2023 03:12:11 UTC] PHP Fatal error:  Uncaught Error: Class "FrmAppHelper" not found in /home/tpfx/public_html/link/wp-content/plugins/formidable-api/controllers/FrmAPIAppController.php:492
+Stack trace:
+#0 /home/tpfx/public_html/link/wp-content/plugins/formidable-api/controllers/FrmAPIAppController.php(480): FrmAPIAppController::check_for_safari_exception()
+#1 /home/tpfx/public_html/link/wp-content/plugins/formidable-api/controllers/FrmAPIAppController.php(400): FrmAPIAppController::request_is_from_iframe()
+#2 /home/tpfx/public_html/link/wp-includes/class-wp-hook.php(310): FrmAPIAppController::maybe_add_scripts_before_landing_page('')
+#3 /home/tpfx/public_html/link/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#4 /home/tpfx/public_html/link/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home/tpfx/public_html/link/wp-includes/general-template.php(3053): do_action('wp_head')
+#6 /home/tpfx/public_html/link/wp-content/plugins/elementor/modules/page-templates/templates/canvas.php(19): wp_head()
+#7 /home/tpfx/public_html/link/wp-includes/template-loader.php(106): include('/home/tpfx/publ...')
+#8 /home/tpfx/public_html/link/wp-blog-header.php(19): require_once('/home/tpfx/publ...')
+#9 /home/tpfx/public_html/link/index.php(17): require('/home/tpfx/publ...')
+#10 {main}
+  thrown in /home/tpfx/public_html/link/wp-content/plugins/formidable-api/controllers/FrmAPIAppController.php on line 492
+[20-Sep-2023 03:12:16 UTC] PHP Fatal error:  Uncaught Error: Class "FrmAppHelper" not found in /home/tpfx/public_html/link/wp-content/plugins/formidable-api/controllers/FrmAPIAppController.php:492
+Stack trace:
+#0 /home/tpfx/public_html/link/wp-content/plugins/formidable-api/controllers/FrmAPIAppController.php(480): FrmAPIAppController::check_for_safari_exception()
+#1 /home/tpfx/public_html/link/wp-content/plugins/formidable-api/controllers/FrmAPIAppController.php(400): FrmAPIAppController::request_is_from_iframe()
+#2 /home/tpfx/public_html/link/wp-includes/class-wp-hook.php(310): FrmAPIAppController::maybe_add_scripts_before_landing_page('')
+#3 /home/tpfx/public_html/link/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#4 /home/tpfx/public_html/link/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home/tpfx/public_html/link/wp-includes/general-template.php(3053): do_action('wp_head')
+#6 /home/tpfx/public_html/link/wp-content/plugins/elementor/modules/page-templates/templates/canvas.php(19): wp_head()
+#7 /home/tpfx/public_html/link/wp-includes/template-loader.php(106): include('/home/tpfx/publ...')
+#8 /home/tpfx/public_html/link/wp-blog-header.php(19): require_once('/home/tpfx/publ...')
+#9 /home/tpfx/public_html/link/index.php(17): require('/home/tpfx/publ...')
+#10 {main}
+  thrown in /home/tpfx/public_html/link/wp-content/plugins/formidable-api/controllers/FrmAPIAppController.php on line 492
+[20-Sep-2023 03:12:43 UTC] PHP Fatal error:  Uncaught Error: Class "FrmAppHelper" not found in /home/tpfx/public_html/link/wp-content/plugins/formidable-api/controllers/FrmAPIAppController.php:492
+Stack trace:
+#0 /home/tpfx/public_html/link/wp-content/plugins/formidable-api/controllers/FrmAPIAppController.php(480): FrmAPIAppController::check_for_safari_exception()
+#1 /home/tpfx/public_html/link/wp-content/plugins/formidable-api/controllers/FrmAPIAppController.php(400): FrmAPIAppController::request_is_from_iframe()
+#2 /home/tpfx/public_html/link/wp-includes/class-wp-hook.php(310): FrmAPIAppController::maybe_add_scripts_before_landing_page('')
+#3 /home/tpfx/public_html/link/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#4 /home/tpfx/public_html/link/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home/tpfx/public_html/link/wp-includes/general-template.php(3053): do_action('wp_head')
+#6 /home/tpfx/public_html/link/wp-content/plugins/elementor/modules/page-templates/templates/canvas.php(19): wp_head()
+#7 /home/tpfx/public_html/link/wp-includes/template-loader.php(106): include('/home/tpfx/publ...')
+#8 /home/tpfx/public_html/link/wp-blog-header.php(19): require_once('/home/tpfx/publ...')
+#9 /home/tpfx/public_html/link/index.php(17): require('/home/tpfx/publ...')
+#10 {main}
+  thrown in /home/tpfx/public_html/link/wp-content/plugins/formidable-api/controllers/FrmAPIAppController.php on line 492
+[20-Sep-2023 03:13:04 UTC] PHP Fatal error:  Uncaught Error: Class "FrmAppHelper" not found in /home/tpfx/public_html/link/wp-content/plugins/formidable-api/controllers/FrmAPIAppController.php:492
+Stack trace:
+#0 /home/tpfx/public_html/link/wp-content/plugins/formidable-api/controllers/FrmAPIAppController.php(480): FrmAPIAppController::check_for_safari_exception()
+#1 /home/tpfx/public_html/link/wp-content/plugins/formidable-api/controllers/FrmAPIAppController.php(400): FrmAPIAppController::request_is_from_iframe()
+#2 /home/tpfx/public_html/link/wp-includes/class-wp-hook.php(310): FrmAPIAppController::maybe_add_scripts_before_landing_page('')
+#3 /home/tpfx/public_html/link/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#4 /home/tpfx/public_html/link/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home/tpfx/public_html/link/wp-includes/general-template.php(3053): do_action('wp_head')
+#6 /home/tpfx/public_html/link/wp-content/plugins/elementor/modules/page-templates/templates/canvas.php(19): wp_head()
+#7 /home/tpfx/public_html/link/wp-includes/template-loader.php(106): include('/home/tpfx/publ...')
+#8 /home/tpfx/public_html/link/wp-blog-header.php(19): require_once('/home/tpfx/publ...')
+#9 /home/tpfx/public_html/link/index.php(17): require('/home/tpfx/publ...')
+#10 {main}
+  thrown in /home/tpfx/public_html/link/wp-content/plugins/formidable-api/controllers/FrmAPIAppController.php on line 492
+[20-Sep-2023 03:13:05 UTC] PHP Fatal error:  Uncaught Error: Class "FrmAppHelper" not found in /home/tpfx/public_html/link/wp-content/plugins/formidable-api/controllers/FrmAPIAppController.php:492
+Stack trace:
+#0 /home/tpfx/public_html/link/wp-content/plugins/formidable-api/controllers/FrmAPIAppController.php(480): FrmAPIAppController::check_for_safari_exception()
+#1 /home/tpfx/public_html/link/wp-content/plugins/formidable-api/controllers/FrmAPIAppController.php(400): FrmAPIAppController::request_is_from_iframe()
+#2 /home/tpfx/public_html/link/wp-includes/class-wp-hook.php(310): FrmAPIAppController::maybe_add_scripts_before_landing_page('')
+#3 /home/tpfx/public_html/link/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters(NULL, Array)
+#4 /home/tpfx/public_html/link/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#5 /home/tpfx/public_html/link/wp-includes/general-template.php(3053): do_action('wp_head')
+#6 /home/tpfx/public_html/link/wp-content/plugins/elementor/modules/page-templates/templates/canvas.php(19): wp_head()
+#7 /home/tpfx/public_html/link/wp-includes/template-loader.php(106): include('/home/tpfx/publ...')
+#8 /home/tpfx/public_html/link/wp-blog-header.php(19): require_once('/home/tpfx/publ...')
+#9 /home/tpfx/public_html/link/index.php(17): require('/home/tpfx/publ...')
+#10 {main}
+  thrown in /home/tpfx/public_html/link/wp-content/plugins/formidable-api/controllers/FrmAPIAppController.php on line 492
+[22-Sep-2023 03:27:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function Elementor\Core\get_plugins() in /home/tpfx/public_html/link/wp-content/plugins/elementor/core/wp-api.php:26
+Stack trace:
+#0 /home/tpfx/public_html/link/wp-content/plugins/elementor/modules/compatibility-tag/base-module.php(96): Elementor\Core\Wp_Api->get_plugins()
+#1 /home/tpfx/public_html/link/wp-content/plugins/elementor/modules/compatibility-tag/base-module.php(58): Elementor\Modules\CompatibilityTag\Base_Module->get_plugins_with_header()
+#2 /home/tpfx/public_html/link/wp-content/plugins/elementor/modules/compatibility-tag/module.php(57): Elementor\Modules\CompatibilityTag\Base_Module->get_plugins_to_check()
+#3 /home/tpfx/public_html/link/wp-content/plugins/elementor/modules/compatibility-tag/base-module.php(148): Elementor\Modules\CompatibilityTag\Module->get_plugins_to_check()
+#4 /home/tpfx/public_html/link/wp-includes/class-wp-hook.php(310): Elementor\Modules\CompatibilityTag\Base_Module->Elementor\Modules\CompatibilityTag\{closure}('')
+#5 /home/tpfx/public_html/link/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#6 /home/tpfx/public_html/link/wp-includes/plugin.php(517): WP_Hook->do_action(Array)
+#7 /home/tpfx/public_html/link/wp-content/plugins/elementor/modules/system-info/module.php(340): do_action('elementor/syste...')
+#8 /home/tpfx/public_html/link/wp-content/plugins/elementor/includes/tracker.php(241): Elementor\Modules\System_Info\Module::get_allowed_reports()
+#9 /home/tpfx/public_html/link/wp-content/plugins/elementor/includes/tracker.php(530): Elementor\Tracker::get_system_reports_data()
+#10 /home/tpfx/public_html/link/wp-content/plugins/elementor/includes/tracker.php(141): Elementor\Tracker::get_tracking_data(false)
+#11 /home/tpfx/public_html/link/wp-includes/class-wp-hook.php(310): Elementor\Tracker::send_tracking_data()
+#12 /home/tpfx/public_html/link/wp-includes/class-wp-hook.php(334): WP_Hook->apply_filters('', Array)
+#13 /home/tpfx/public_html/link/wp-includes/plugin.php(565): WP_Hook->do_action(Array)
+#14 /home/tpfx/public_html/link/wp-cron.php(191): do_action_ref_array('elementor/track...', Array)
+#15 {main}
+  thrown in /home/tpfx/public_html/link/wp-content/plugins/elementor/core/wp-api.php on line 26

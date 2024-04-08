@@ -1,0 +1,44 @@
+[26-Jul-2022 02:38:59 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/clicktpfx/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/clicktpfx/public_html/config/app.php on line 16
+[19-May-2023 08:13:48 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/clicktpfx/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/clicktpfx/public_html/config/mail.php on line 16
+[20-May-2023 10:10:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/clicktpfx/public_html/config/mail.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/clicktpfx/public_html/config/mail.php on line 16
+[07-Jun-2023 01:41:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/clicktpfx/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/clicktpfx/public_html/config/cache.php on line 21
+[09-Jul-2023 01:01:57 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/clicktpfx/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/clicktpfx/public_html/config/cache.php on line 21
+[09-Jul-2023 20:42:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/clicktpfx/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/clicktpfx/public_html/config/cache.php on line 21
+[30-Aug-2023 00:58:41 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/clicktpfx/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/clicktpfx/public_html/config/cache.php on line 21
+[30-Aug-2023 00:58:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/clicktpfx/public_html/config/cache.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/clicktpfx/public_html/config/cache.php on line 21
+[20-Sep-2023 13:43:56 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/clicktpfx/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/clicktpfx/public_html/config/app.php on line 16
+[20-Sep-2023 13:57:16 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/clicktpfx/public_html/config/app.php:16
+Stack trace:
+#0 {main}
+  thrown in /home/clicktpfx/public_html/config/app.php on line 16
+[05-Dec-2023 08:17:03 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function env() in /home/clicktpfx/public_html/staging/config/api.php:5
+Stack trace:
+#0 {main}
+  thrown in /home/clicktpfx/public_html/staging/config/api.php on line 5
