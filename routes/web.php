@@ -39,8 +39,6 @@ Route::name('events.')->prefix('events')->group(function(){
     Route::get('thank-you', 'App\Http\Controllers\EventController@thank_you')->name('thank_you');
     Route::get('ebook-basic-thank-you', 'App\Http\Controllers\EventController@thank_you_ebook_basic')->name('thank_you_ebook_basic');
 
-    Route::get('upload-leads', 'App\Http\Controllers\EventController@upload_leads_view')->name('upload_leads_view');
-    Route::post('upload_leads', 'App\Http\Controllers\EventController@upload_leads')->name('upload_leads');
     Route::post('store_leads', 'App\Http\Controllers\EventController@store_leads')->name('store_leads');
     Route::view('test', 'events.test');
 });
@@ -67,7 +65,8 @@ Route::view('/trading-central', 'tc.index');
 
 Route::name('leads.')->middleware('auth')->prefix('leads')->group(function(){
     Route::get('', 'App\Http\Controllers\LeadsController@getLeads')->name('getLeads');
-
+    Route::get('upload-leads', 'App\Http\Controllers\UploadLeadsController@index')->name('upload_leads_view');
+    Route::post('upload_leads', 'App\Http\Controllers\UploadLeadsController@upload_leads')->name('upload_leads');
 });
 
 Route::name('qontak.')->prefix('qontak')->group(function(){
