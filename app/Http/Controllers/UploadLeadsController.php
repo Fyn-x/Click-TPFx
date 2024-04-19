@@ -25,6 +25,7 @@ class UploadLeadsController extends Controller
         // return Excel::download(new LeadsDummyExport(), 'leadsdummy100-' . date('YmdHis') . '.csv');
         $spv = SPV::on('mysql_crm')
             ->select('staffid', 'email', 'firstname', 'lastname')
+            ->where('role', 3)
             ->where('active', 1)
             ->orderBy('firstname', 'ASC')
             ->get();
