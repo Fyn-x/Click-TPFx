@@ -19,7 +19,7 @@
     <title>Leads TPFx</title>
 </head>
 
-<body style="background-color: #5e5353">
+<body>
     <a href="/leads" class="btn btn-danger float-start ms-5">Back</a>
     <div class="d-flex justify-content-center mt-5">
         <h2 class="text-center">Upload Leads</h2>
