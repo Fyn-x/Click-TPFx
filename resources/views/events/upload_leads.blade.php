@@ -19,8 +19,11 @@
     <title>Leads TPFx</title>
 </head>
 
-<body>
-    <h2 class="text-center mt-5">Upload Leads</h2>
+<body style="background-color: #5e5353">
+    <a href="/leads" class="btn btn-danger float-start ms-5">Back</a>
+    <div class="d-flex justify-content-center mt-5">
+        <h2 class="text-center">Upload Leads</h2>
+    </div>
     <hr class="mx-auto col-5">
     <div class="d-flex flex-column align-items-center justify-content-center">
         @if (session('success'))
@@ -35,7 +38,7 @@
             <div class="mb-3">
                 <label for="formFile" class="form-label">File Leads</label>
                 <input class="form-control" type="file" id="file_leads" name="file_leads" required
-                    accept=".csv, text/csv">
+                    accept=".csv, text/csv, .xlsx, text/xlsx">
             </div>
             <div class="mb-2">
                 <select id="leads" class="form-select select2" name="leads">
@@ -74,7 +77,7 @@
                     <tr id="row-spv-${data.id}">
                         <td><button data-id="${data.id}" class="btn btn-sm btn-danger delete-spv">x</button></td>
                         <td><input name="spv_id[]" type="hidden" value="${data.id}">${data.name}</td>
-                        <td><input style="width: 100% !important;" name="persentase[]" type="number" min="0"></td>
+                        <td><input step="1" style="width: 100% !important;" name="persentase[]" type="number" min="0"></td>
                     </tr>
                 `
             }

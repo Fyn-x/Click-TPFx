@@ -13,8 +13,8 @@ class LeadsDummyExport implements FromCollection
     public function collection()
     {
         $temp = [];
-        for ($i = 1; $i <= 5; $i++) {
-            $t = ['tes' . $i, '6220240400' . $i . '@example.com', '6220240400' . $i, 'Google'];
+        for ($i = 1; $i <= 200; $i++) {
+            $t = ['tes' . $i, '62' . date('Ymds') . $i . '@example.com', '62' . date('Ymds') . $i, 'Google'];
             array_push($temp, $t);
         }
 

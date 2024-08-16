@@ -129,12 +129,15 @@
     <!--<h2 class="mb-4"></h2>-->
 
     <div class="d-flex justify-content-between align-items-center my-5">
-        <div>
+        <div class="col-6">
             <strong>Date Filter:</strong>
             <input style="width: 200px" type="text" name="daterange" value="" />
             <button class="btn btn-success filter">Filter</button>
         </div>
-        <a href="#" id="export-excel" target="_blank" class="btn btn-secondary">Export to Excel</a>
+        <div class="d-flex flex-column justify-content-end">
+            <a href="{{ route('leads.upload_leads_view') }}" target="_blank" class="btn btn-dark">Upload Leads</a>
+            <a href="#" id="export-excel" target="_blank" class="btn btn-secondary  my-2">Export to Excel</a>
+        </div>
     </div>
 
     <table class="table-responsive table-bordered yajra-datatable">
@@ -164,8 +167,8 @@
 <script type="text/javascript">
 $(function () {
      $('input[name="daterange"]').daterangepicker({
-        // startDate: moment().subtract(1, 'Y'),
-        startDate: moment().subtract(1, 'months').startOf('month'),
+        startDate: moment().subtract(3, 'Y'),
+        // startDate: moment().subtract(1, 'months').startOf('month'),
         endDate: moment()
     });
 
@@ -202,7 +205,8 @@ $(function () {
     $('#export-excel').click(function(){
         const start = $('input[name="daterange"]').data('daterangepicker').startDate.format('YYYY-MM-DD 00:00:00');
         const end = $('input[name="daterange"]').data('daterangepicker').endDate.format('YYYY-MM-DD 23:59:59');
-        const newUrl = `/exports?start=${start}&end=${end}`
+        const search = table.search()
+        const newUrl = `/exports?start=${start}&end=${end}&search=${search}`
 
         $(this).attr("href", newUrl);
         window.open($(this).attr("href"));

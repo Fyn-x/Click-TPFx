@@ -42,8 +42,8 @@
         integrity="sha512-nMNlpuaDPrqlEls3IX/Q56H36qvBASwb3ipuo3MxeWbsQB1881ox0cRv7UPTgBlriqoynt35KjEwgGUeUXIPnw=="
         crossorigin="anonymous" referrerpolicy="no-referrer" />
 
-    <link rel="stylesheet" type="text/css" href="{{ asset('public/assets/css/util.css') }}">
-    <link rel="stylesheet" type="text/css" href="{{ asset('public/assets/css/main.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/util.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('assets/css/main.css') }}">
     <style>
         .label-input100{
             font-size: 20px;
@@ -72,7 +72,7 @@
             <form class="contact100-form validate-form" id="ftdForm" role="form" method="POST"
                 enctype="multipart/form-data" action="{{ route('ftd.store') }}">
                 <span class="contact100-form-title">
-                    <img src="{{ asset('public/assets/img/tpfx/logo-tpfx-black-small.png') }}" alt="logo tpfx">
+                    <img src="{{ asset('assets/img/tpfx/logo-tpfx-black-small.png') }}" alt="logo tpfx">
                 </span>
                 @csrf
                 @if(Session::has('errors'))
@@ -443,7 +443,7 @@
     <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.29.4/moment.min.js"
         integrity="sha512-CryKbMe7sjSCDPl18jtJI5DR5jtkUWxPXWaLCst6QjH8wxDexfRJic2WRmRXmstr2Y8SxDDWuBO6CQC6IE4KTA=="
         crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-    <script src="{{ asset('public/assets/js/main.js') }}"></script>
+    <script src="{{ asset('assets/js/main.js') }}"></script>
     <!--====== Custom ======-->
     <script>
         $(function () {

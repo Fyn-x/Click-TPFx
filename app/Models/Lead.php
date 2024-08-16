@@ -15,7 +15,8 @@ class Lead extends Model
         'name',
         'email',
         'phone',
-        'url'
+        'url',
+        'assigned'
     ];
 
     public function getCreatedAtAttribute($value)

@@ -8,6 +8,7 @@ use Illuminate\Support\Facades\Mail;
 use Illuminate\Http\Request;
 use Maatwebsite\Excel\Facades\Excel;
 use App\Exports\DownloadPerClientExport;
+use Illuminate\Support\Facades\DB;
 
 class FTDController extends Controller
 {
@@ -61,38 +62,52 @@ class FTDController extends Controller
             'created_at' => date('Y-m-d h:i:s')
         ]);
 
-        $screenshots = array();
-        if($request->file('screenshot') != null && count($request->file('screenshot')) > 0)
-        {
-            foreach($request->file('screenshot') as $key=>$screenshot){
-                $screenshots[$key] = $screenshot->path();
-            }
-        }
 
-        if($request->master_ib == "NASABAH") Mail::to("dealing.ftd@tpfx.co.id")
-            ->cc([
-                $request->email_tl,
-                $request->email_spv
-            ])
-            ->send(new FTDMail($request->all(),$screenshots));
+        // $screenshots = array();
+        // if($request->file('screenshot') != null && count($request->file('screenshot')) > 0)
+        // {
+        //     foreach($request->file('screenshot') as $key=>$screenshot){
+        //         $screenshots[$key] = $screenshot->path();
+        //     }
+        // }
 
-            $client = new \GuzzleHttp\Client([
-                'allow_redirects' => false,
-                'http_errors' => false
-            ]);
-            $response = $client->post('https://hook.us1.make.com/k0316g4xupdt23v1j8x1fu8f7bk33buo', [
-                'form_params' => $request->all()
-            ]);
-            if($response->getStatusCode() != 200) {
-                Log::info([$response->getStatusCode() => "FTD: " . json_encode($request->all())]);
-            }
-        elseif($request->master_ib == "IB") Mail::to("ib.support@team.tpfx.co.id")
-            ->cc([
-                $request->email_tl,
-                $request->email_spv,
-                'dealing.ftd@tpfx.co.id'
-            ])
-            ->send(new FTDMail($request->all(),$screenshots));
+        // if($request->master_ib == "NASABAH") Mail::to("dealing.ftd@tpfx.co.id")
+        //     ->cc([
+        //         $request->email_tl,
+        //         $request->email_spv
+        //     ])
+        //     ->send(new FTDMail($request->all(),$screenshots));
+
+        //     $client = new \GuzzleHttp\Client([
+        //         'allow_redirects' => false,
+        //         'http_errors' => false
+        //     ]);
+        //     $response = $client->post('https://hook.us1.make.com/k0316g4xupdt23v1j8x1fu8f7bk33buo', [
+        //         'form_params' => $request->all()
+        //     ]);
+        //     if($response->getStatusCode() != 200) {
+        //         Log::info([$response->getStatusCode() => "FTD: " . json_encode($request->all())]);
+        //     }
+        // elseif($request->master_ib == "IB") Mail::to("ib.support@team.tpfx.co.id")
+        //     ->cc([
+        //         $request->email_tl,
+        //         $request->email_spv,
+        //         'dealing.ftd@tpfx.co.id'
+        //     ])
+        //     ->send(new FTDMail($request->all(),$screenshots));
+
+        $request->merge([
+            'type' => $request->ftd_type,
+            'branch' => $request->group,
+            'name_ib' => json_encode($request->name_ib),
+            'email_ib' => json_encode($request->email_ib),
+            'metal_ib' => json_encode($request->metal_ib),
+            'forex_ib' => json_encode($request->forex_ib),
+            'index_ib' => json_encode($request->index_ib),
+            'cfd_ib' => json_encode($request->cfd_ib),
+        ]);
+
+        DB::connection('mysql_ftd')->table('ftd')->insert($request->except(['_token', 'ftd_type', 'screenshot', 'group']));
 
         return redirect('/ftd')->withSuccess('FTD berhasil disubmit. Silakan konfirmasi ke dealing jika email sudah diterima.');
     }

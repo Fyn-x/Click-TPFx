@@ -17,7 +17,7 @@ class UploadLeadsController extends Controller
     public function __construct()
     {
         ini_set('memory_limit', '500M');
-        ini_set('max_execution_time', '1200');
+        ini_set('max_execution_time', '3600');
     }
 
     public function index()
@@ -109,77 +109,108 @@ class UploadLeadsController extends Controller
             $req_obj = new Request($result);
 
             $validate = $this->validation($req_obj);
-            if ($validate) {
-                $this->process_leads_upload($result);
-                array_push($success_job, $result);
-            } else {
+
+            if ($validate->fails()) {
+                $result['error'] = $validate->errors()->first();
                 array_push($failed_job, $result);
+            } else {
+                $proses_crm = $this->_store_to_crm($result);
+                if ($proses_crm->getData()->code == 200) {
+                    $proses_db = $this->_store_to_db($result);
+                    if ($proses_db->getData()->code == 200) {
+                        array_push($success_job, $result);
+                    } else {
+                        $result['error'] = $proses_db->getData()->message;
+                        array_push($failed_job, $result);
+                    }
+                } else {
+                    $result['error'] = $proses_crm->getData()->message;
+                    array_push($failed_job, $result);
+                }
             }
         }
 
-        return redirect()->route('leads.upload_leads_view')->withSuccess('Uploading has been completed! <br/> Success: ' . count($success_job) . '<br/> Failed: ' . count($failed_job));
+        $failed_message = '';
+        foreach ($failed_job as $item) {
+            $failed_message .= '<li class="text-danger small">"' . $item['email'] . '" ' . $item['error'] . '</li>';
+        }
+
+        return back()->withSuccess(
+            '
+                Uploading has been completed! <br/>
+                Success: ' . count($success_job) . '<br/>
+                Failed: ' . count($failed_job) . '<br/><br/>' . $failed_message
+        );
     }
 
-    public function process_leads_upload($input)
+    private function _store_to_crm($input)
     {
-        $lead_id = Lead::on('mysql_leads')->insertGetId([
-            'name' => $input['name'],
-            'email' => $input['email'],
-            'phone' => $input['phonenumber'],
-            'url' => $input['url'],
-            'source' => $input['source'],
-            'campaign' => $input['campaign'],
-            'medium' => $input['medium'],
-            'compro_campaign_clicked' => $input['compro_campaign_clicked'],
-            // 'assigned' => $input['assigned']
-        ]);
-
-        if (!$lead_id) {
-            Log::info([500 => "Error input leads to DB"]);
-            abort(500, 'Error input leads to DB');
-        }
-
-        if (!$input['medium'] || !$input['campaign']) {
-            $sc_temp = strtolower($input['source']);
-        } else {
-            $sc_temp = strtolower($input['source'] . " " . $input['medium'] . " " . $input['campaign']);
-        }
-
-        $sc = Source::whereRaw('LOWER(name) = ?', $sc_temp)->select('id')->first();
-        if (!$sc) {
-            if (str_contains(strtolower($input['source']), 'google')) {
-                $sc_id = 99998;
-            } elseif (str_contains(strtolower($input['source']), 'meta') || str_contains(strtolower($input['source']), 'facebook')) {
-                $sc_id = 99999;
-            } elseif (str_contains(strtolower($input['source']), 'twitter')) {
-                $sc_id = 99997;
+        try {
+            if (!$input['medium'] || !$input['campaign']) {
+                $sc_temp = strtolower($input['source']);
+            } else {
+                $sc_temp = strtolower($input['source'] . " " . $input['medium'] . " " . $input['campaign']);
             }
-        } else {
-            $sc_id = $sc->id;
+
+            $sc = Source::whereRaw('LOWER(name) = ?', $sc_temp)->select('id')->first();
+            if (!$sc) {
+                if (str_contains(strtolower($input['source']), 'google')) {
+                    $sc_id = 99998;
+                } elseif (str_contains(strtolower($input['source']), 'meta') || str_contains(strtolower($input['source']), 'facebook')) {
+                    $sc_id = 99999;
+                } elseif (str_contains(strtolower($input['source']), 'twitter')) {
+                    $sc_id = 99997;
+                }
+            } else {
+                $sc_id = $sc->id;
+            }
+
+            $body = [
+                'source' => $sc_id,
+                'status' => 11,
+                'name' => $input['name'],
+                'email' => $input['email'],
+                'phonenumber' => $input['phonenumber'],
+                'assigned' => $input['assigned']
+            ];
+
+            $client = new \GuzzleHttp\Client([
+                'headers' => [
+                    'authtoken' => config('api.api_crm_leads_token')
+                ],
+                // 'allow_redirec   ts' => true,
+                // 'http_errors' => false,
+            ]);
+
+            $client->post(config('api.api_url_leads'), ['form_params' => $body]);
+        } catch (\Throwable $th) {
+            Log::info(['code' => $th->getCode(), 'message' => $th->getMessage()]);
+            return response()->json(['code' => $th->getCode(), 'message' => $th->getMessage()]);
         }
 
-        $body = [
-            'source' => $sc_id,
-            'status' => 11,
-            'name' => $input['name'],
-            'email' => $input['email'],
-            'phonenumber' => $input['phonenumber'],
-            'assigned' => $input['assigned']
-        ];
+        return response()->json(['code' => 200]);
+    }
 
-        $client = new \GuzzleHttp\Client([
-            'headers' => [
-                'authtoken' => config('api.api_crm_leads_token')
-            ],
-            'allow_redirects' => false,
-            'http_errors' => false,
-        ]);
-
-        $response_create_leads = $client->post(config('api.api_url_leads'), ['form_params' => $body]);
-
-        if ($response_create_leads->getStatusCode() != 200) {
-            Log::info([$response_create_leads->getStatusCode() => json_encode($response_create_leads)]);
+    private function _store_to_db($input)
+    {
+        try {
+            Lead::on('mysql_leads')->insertGetId([
+                'name' => $input['name'],
+                'email' => $input['email'],
+                'phone' => $input['phonenumber'],
+                'url' => $input['url'],
+                'source' => $input['source'],
+                'campaign' => $input['campaign'],
+                'medium' => $input['medium'],
+                'compro_campaign_clicked' => $input['compro_campaign_clicked'],
+                // 'assigned' => $input['assigned']
+            ]);
+        } catch (\Throwable $th) {
+            Log::info([$th->getCode() => $th->getMessage()]);
+            return response()->json(['code' => $th->getCode(), 'message' => $th->getMessage()]);
         }
+
+        return response()->json(['code' => 200]);
     }
 
     public function validation(Request $request)
@@ -187,18 +218,15 @@ class UploadLeadsController extends Controller
         $input = $request->all();
         $validation = [
             'name' => 'required|string|max:255',
-            'email' => 'required|string|max:255|unique:mysql_leads.leads,email',
+            'email' => 'required|string|max:255|unique:mysql_leads.leads,email|email:rfc,dns',
             'phonenumber' => 'required|string|max:255|unique:mysql_leads.leads,phone',
             'source' => 'string',
         ];
 
         $leads_validation = Validator::make($input, $validation);
+        Log::info([500 => $leads_validation->errors()->first()]);
 
-        if ($leads_validation->fails()) {
-            Log::info([500 => $leads_validation->fails()]);
-            return false;
-        }
-        return true;
+        return $leads_validation;
     }
 
     public function validateFileUpload($file)
@@ -206,7 +234,7 @@ class UploadLeadsController extends Controller
         $extension = $file->getClientOriginalExtension();
         $fileSize = $file->getSize();
 
-        $valid_extension = ["csv"];
+        $valid_extension = ["csv", "xlsx"];
         $maxFileSize = 2048152;
         if (in_array(strtolower($extension), $valid_extension)) {
             if ($fileSize <= $maxFileSize) {

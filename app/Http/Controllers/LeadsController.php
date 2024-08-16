@@ -18,7 +18,18 @@ class LeadsController extends Controller
     public function getLeads(Request $request)
     {
         if ($request->ajax()) {
-            $result = Lead::selectRaw('id, name, email,phone, source, medium, campaign, created_at')->latest();
+            $searchValue = $request->search['value'];
+
+            $result = Lead::selectRaw('id, name, email,phone, source, medium, campaign, created_at')
+            ->where(function($q) use ($searchValue) {
+                $q->where('name', 'like', "%{$searchValue}%")
+                  ->orWhere('email', 'like', "%{$searchValue}%")
+                  ->orWhere('phone', 'like', "%{$searchValue}%")
+                  ->orWhere('source', 'like', "%{$searchValue}%")
+                  ->orWhere('medium', 'like', "%{$searchValue}%")
+                  ->orWhere('campaign', 'like', "%{$searchValue}%");
+            })
+            ->latest();
 
             if ($request->filled('from_date') && $request->filled('to_date')) {
                 $result = $result->where('created_at', '>=', $request->from_date)->where('created_at', '<=', $request->to_date);
@@ -36,11 +47,14 @@ class LeadsController extends Controller
 
     function export(Request $request)
     {
+        ini_set('memory_limit', '500M');
+        ini_set('max_execution_time', '3600');
         $start = $request->start;
         $end = $request->end;
+        $search = $request->search;
 
         try {
-            $excel = isset($start, $end) ? new LeadsExport($start, $end) : new LeadsExport();
+            $excel = isset($start, $end, $search) ? new LeadsExport($start, $end, $search) : new LeadsExport();
             return Excel::download($excel, 'leads-' . date('YmdHis') . '.xlsx');
         } catch (\Throwable $th) {
             dd($th->getMessage());
