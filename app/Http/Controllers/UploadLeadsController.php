@@ -8,6 +8,7 @@ use App\Imports\LeadsImport;
 use App\Models\Lead;
 use App\Models\Source;
 use App\Models\SPV;
+use Illuminate\Support\Facades\Auth;
 use Illuminate\Support\Facades\Log;
 use Illuminate\Support\Facades\Validator;
 use Maatwebsite\Excel\Facades\Excel;
@@ -108,24 +109,34 @@ class UploadLeadsController extends Controller
 
             $req_obj = new Request($result);
 
-            $validate = $this->validation($req_obj);
-
-            if ($validate->fails()) {
-                $result['error'] = $validate->errors()->first();
-                array_push($failed_job, $result);
-            } else {
+            if ($request->direct) {
                 $proses_crm = $this->_store_to_crm($result);
                 if ($proses_crm->getData()->code == 200) {
-                    $proses_db = $this->_store_to_db($result);
-                    if ($proses_db->getData()->code == 200) {
-                        array_push($success_job, $result);
-                    } else {
-                        $result['error'] = $proses_db->getData()->message;
-                        array_push($failed_job, $result);
-                    }
+                    array_push($success_job, $result);
                 } else {
                     $result['error'] = $proses_crm->getData()->message;
                     array_push($failed_job, $result);
+                }
+            } else {
+                $validate = $this->validation($req_obj);
+
+                if ($validate->fails()) {
+                    $result['error'] = $validate->errors()->first();
+                    array_push($failed_job, $result);
+                } else {
+                    $proses_crm = $this->_store_to_crm($result);
+                    if ($proses_crm->getData()->code == 200) {
+                        $proses_db = $this->_store_to_db($result);
+                        if ($proses_db->getData()->code == 200) {
+                            array_push($success_job, $result);
+                        } else {
+                            $result['error'] = $proses_db->getData()->message;
+                            array_push($failed_job, $result);
+                        }
+                    } else {
+                        $result['error'] = $proses_crm->getData()->message;
+                        array_push($failed_job, $result);
+                    }
                 }
             }
         }

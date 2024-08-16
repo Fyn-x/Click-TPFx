@@ -58,6 +58,14 @@
                 </thead>
                 <tbody id="spv-table-body"></tbody>
             </table>
+            @if (Auth::user()->email == 'info@tpfx.co.id')
+                <div class="form-check">
+                    <input class="form-check-input" type="checkbox" value="1" id="direct" name="direct">
+                    <label class="form-check-label" for="direct">
+                        Direct to CRM
+                    </label>
+                </div>
+            @endif
             <button id="submit-btn" type="button" class="btn btn-outline-primary col-12">
                 Upload
             </button>

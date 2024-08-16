@@ -91,11 +91,11 @@
                                             <a href="javascript:void(0)" data-bs-toggle="dropdown" class="nav-link leading-none d-flex">
                                                 <img src="{{asset('public/assets/leads/images/web/codeigniter.png')}}" alt="profile-user" class="avatar  profile-user brround cover-image">
                                             </a>
-                                            <div class="dropdown-menu dropdown-menu-start dropdown-menu-arrow">
+                                            <div class="dropdown-menu dropdown-menu-arrow" style="margin-left: -125px">
                                                 <div class="drop-heading">
                                                     <div class="text-center">
                                                         <h5 class="text-dark mb-0 fs-14 fw-semibold"> {{ auth()->user()->name }}</h5>
-                                                        <small class="text-muted">Senior Admin</small>
+                                                        <small class="text-muted">{{ auth()->user()->email }}</small>
                                                     </div>
                                                 </div>
                                                 <div class="dropdown-divider m-0"></div>
